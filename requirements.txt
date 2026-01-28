@@ -1,0 +1,8 @@
+PySide6
+astroquery
+joblib
+numpy
+pandas
+Pillow
+scikit-learn==1.7.2
+scipy
