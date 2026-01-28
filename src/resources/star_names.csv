@@ -1,0 +1,658 @@
+star_id,star_name
+677,Alpheratz
+5447,Mirach
+6411,Adhil
+6999,Thail
+7513,Titawin
+7607,Nembus
+9640,Almach
+12191,Buna
+116076,Veritate
+52521,Macondo
+76351,Karaka
+93244,Deneb al Okab Borealis
+93747,Okab
+93805,Al Thalimain Prior
+95501,Almizan I
+96468,Al Thalimain Posterior
+97278,Tarazed
+97649,Altair
+97804,Almizan II
+97938,Libertas
+98036,Alshain
+99473,Almizan III
+99711,Phoenicia
+99894,Chechia
+102618,Albali
+103045,Albulan I
+104459,Albulan II
+106278,Sadalsuud
+106786,Bunda
+107251,Bosona
+108874,Sadalmulk
+109074,Sadalmelik
+110003,Ancha
+110395,Sadachbia
+110672,Seat
+110813,Lionrock
+110960,Sadaltager
+111710,Situla
+112961,Hydor
+113136,Skat
+84787,Inquill
+86796,Cervantes
+8832,Mesarthim
+8903,Sheratan
+9884,Hamal
+12489,Barani I
+12640,Koleon
+12719,Barani II
+13061,Lilii Borea
+13165,Al Butain I
+13209,Bharani
+13702,Al Butain II
+13914,Al Butain III
+14838,Botein
+15110,Al Butain IV
+23015,Hassaleh
+23416,Almaaz
+23453,Saclateni
+23767,Haedus
+24340,Alhiba I
+24608,Capella
+24813,Alhiba II
+25292,Alhiba III
+26712,Gwiazda Andrewsa
+28358,Prijipati
+28360,Menkalinan
+28380,Mahasim
+30520,Dolones I
+30860,Lucilinburhuc
+31789,Dolones II
+31832,Dolones III
+32173,Dolones IV
+32480,Dolones V
+32562,Dolones VI
+32844,Dolones VII
+32916,Nervia
+33133,Dolones VIII
+33377,Dolones IX
+67927,Muphrid
+69483,Asellus Tertius
+69673,Arcturus
+69713,Asellus Secundus
+69732,Xuange
+70497,Asellus Primus
+71075,Seginus
+72105,Izar
+72487,Merga
+72845,Arcalís
+73555,Nekkar
+73745,Aulad Alnathlat
+74666,Thiba
+74961,Nikawiy
+75411,Alkalurops
+76534,Ceginus
+24003,Mago
+58952,Tonatiuh
+100027,Prima Giedi
+100064,Algedi
+100310,Alshat
+100325,Dabih Minor
+100345,Dabih
+105881,Yen
+106985,Nashira
+107556,Deneb Algedi
+30438,Canopus
+38041,Tapecue
+41037,Avior
+45238,Miaplacidus
+45556,Aspidiske
+55042,Gwiazda Innesa
+746,Caph
+1415,Gwiazda Pearce'a
+2920,Fulu
+3179,Schedar
+3821,Achird
+4422,Castula
+4427,Navi
+5336,Marfak
+5542,Marfak
+6686,Ruchbah
+8886,Segin
+13192,Nushagak
+56709,Gwiazda Przybylskiego
+57291,Uklun
+61932,Muhlifain
+66047,Dofida
+68002,Alnair
+68702,Hadar
+68933,Menkent
+69619,Gwiazda Poppera
+70300,Helowa gwiazda zmienna Bidelmana
+70890,Proxima
+71681,Toliman
+71683,Rigil Kentaurus
+73334,Ke Kwan
+99255,Al Aghnam I
+101093,Al Kidr
+102422,Kabalfird
+105199,Alderamin
+106032,Alfirk
+107259,Granatowa Gwiazda
+107418,Castula
+108917,Kurhah
+110893,Kruger 60
+111056,Al Kalb al Rai
+114222,Al Aghnam II
+116727,Errai
+1562,Deneb Kaitos Shemali
+2247,Felixvarela
+3419,Diphda
+3455,Alnitham I
+3909,Alnitham II
+4371,Alnitham III
+4587,Alnitham IV
+5364,Dheneb
+6537,Al Naymat I
+8102,Al Naymat II
+8645,Baten Kaitos
+9347,Al Naymat III
+10324,Al Kaff al Jidhmah I
+10826,Mira
+11345,Sadr al Kaitos I
+11484,Al Kaff al Jidhmah II
+11783,Sadr al Kaitos II
+12387,Al Kaff al Jidhmah III
+12390,Sadr al Kaitos III
+12706,Kaffaljidhma
+12770,Sadr al Kaitos IV
+12828,Al Kaff al Jidhmah IV
+13954,Menkar
+14135,Menkar
+118319,Axólotl
+37284,Ceibo
+29550,Amadioha
+30122,Furud
+30324,Mirzam
+32349,Sirius
+33152,Udra
+33345,Isis
+33579,Adhara
+33856,Nganurganity
+33977,Al Zara
+34045,Muliphein
+34444,Wezen
+35210,Winter Albireo
+35904,Aludra
+36188,Gomeisa
+36208,Gwiazda Luytena
+37279,Procyon
+40167,Tegmine
+40526,Tarf
+40881,Piautos
+42446,Gakyid
+42556,Meleph
+42806,Asellus Borealis
+42911,Asellus Australis
+43103,Zubanah
+43587,Copernicus
+44066,Acubens
+44946,Nahn
+26634,Phact
+27628,Wazn
+29034,Elkurud
+29807,Kurud II
+60742,Al Dafirah
+61071,Kissin
+62763,Polaris Galacticus Borealis
+64241,Diadem
+94114,Meridiana
+75695,Nusakan
+76267,Alphecca
+77442,Variabilis Coronae
+78322,Plonaca Gwiazda
+79219,Kamuy
+53740,Alkes
+54682,Al Sharasif
+55106,Gwiazda Abta
+55174,Hunahpú
+59747,Imai
+60260,Ginan
+60644,Tupã
+60718,Acrux
+61084,Gacrux
+62434,Mimosa
+59199,Alchiba
+59316,Minkar
+59803,Gienah
+60965,Algorab
+61359,Kraz
+61317,Chara
+62223,La Superba
+63125,Cor Caroli
+94779,Fawaris I
+95947,Albireo
+96295,Gwiazda Campbella
+97165,Fawaris
+100044,Revenant of the Swan
+100453,Sadr
+101138,Ruchba
+102098,Deneb
+102488,Aljanah
+104217,Gwiazda Bessela
+104732,Fawaris III
+107136,Azelfafage
+101421,Aldulfin
+101769,Rotanev
+101958,Sualocin
+102281,Al Ukud
+102532,Al Salib
+103527,Musica
+56211,Giausar
+61177,Funi
+62423,Tianyi
+63076,Taiyi
+68756,Thuban
+75458,Edasich
+80331,Athebyne
+83608,Alrakis
+83895,Aldhibah
+85670,Rastaban
+85805,Adfar Aldib I
+85819,Kuma
+85829,Kuma
+86201,Al Dhih
+86614,Dziban
+86620,Dziban II
+86782,Alruba
+87585,Grumium
+87833,Eltanin
+89908,Aldhiba
+89937,Alahakan
+90344,Fafnir
+92782,Athafi I
+94376,Altais
+94648,Athafi II
+95081,Tais I
+96100,Alsafi
+97433,Tyl
+98702,Tais II
+104987,Kitalpha
+7588,Achernar
+12961,Koeia
+13288,Angetenar
+13701,Azha
+13847,Acamar
+13993,Ayeyarwady
+14060,Aludhi I
+14168,Aludhi II
+14293,Aludhi III
+15197,Zibal
+15474,Angetenar
+16537,Ran
+17378,Rana
+18543,Zaurak
+19587,Beid
+19849,Keid
+20042,Beemim I
+20535,Beemim
+21248,Beemim
+21393,Theemin
+21594,Sceptrum
+22491,Mouhoun
+23364,Kursi al Jauzah I
+23875,Cursa
+23972,Kursi al Jauzah II
+14879,Dalim
+15578,Intan
+36850,Castor
+37826,Pollux
+108085,Aldhanab
+108375,Itonda
+109268,Alnair
+112122,Tiaki
+79043,Marsic
+80076,Hunor
+80170,Nasak Shamiya III
+80463,Cujam
+80816,Kornephoros
+80838,Ogma
+81693,Rutilicus
+84345,Rasalgethi
+84379,Sarin
+85693,Maasym
+42313,Minazal I
+42402,Minchir
+42799,Minazal II
+43109,Ashlesha
+43234,Minazal IV
+43813,Minazal V
+46390,Alphard
+46509,Ukdah I
+46776,Ukdah II
+46982,Ukdah III
+47431,Ukdah
+47452,Al Sharasif I
+48356,Zhang
+48615,Felis
+101772,Persian
+112247,Gwiazda Babcocka
+46146,Al Minlear al Asad
+46750,Alterf
+47508,Subra
+47908,Algenubi
+48455,Rasalas
+49583,Al Jabhah
+49669,Regulus
+50335,Adhafera
+50583,Algieba
+52123,Gwiazda Klemoli
+54158,Dingolay
+54872,Zosma
+54879,Chertan
+54951,Zubrah
+55642,Tsze Tseang
+55664,Shama
+56508,Formosa
+56572,Sagarmatha
+57632,Denebola
+23203,Karmazynowa Gwiazda Hinda
+25606,Nihal
+25985,Arneb
+27072,Kursi al Jabbar
+27654,Arsh al Jauzah
+47087,Illyrian
+72603,Zubenelgenubi I
+72622,Zubenelgenubi
+73473,Zuben Elakribi
+73714,Brachium
+73945,Zuben Hakrabi
+74785,Zubeneschamali
+76333,Zubenelhakrabi
+76976,Gwiazda Metuszelacha
+77060,Zuban al Kravi
+53229,Praecipua
+71680,Men
+73273,KeKouan
+33485,Dolones X
+41075,Alsciaukat
+43674,Stribor
+90191,Al Athfar
+91262,Vega
+91852,Xihe
+91919,Double Double I
+91926,Double Double II
+91971,Nasr Alwaki I
+91973,Nasr Alwaki II
+92420,Sheliak
+93194,Sulafat
+94481,Aladfar
+26380,Bubup
+30089,Czerwony Prostokat
+30905,Lusitânia
+31646,Gwiazda Plasketta
+33719,Citalá
+104382,Polaris Australis
+79593,Yed Prior
+79822,Yed Post
+79882,Yed Posterior
+80687,Timir
+80883,Marfik
+81022,Rosalíadecastro
+81377,Saik
+82651,Mahsati
+84012,Sabik
+84405,Guniibuu
+84893,Aggia
+84970,Garafsa
+86032,Rasalhague
+86742,Cebalrai
+86777,Zelazna Gwiazda
+87108,Muliphen
+87937,Gwiazda Barnarda
+22449,Tabit
+22509,Al Taj I
+22549,Al Taj II
+22667,Al Kumm I
+22797,Al Taj III
+22833,Manica
+22845,Al Taj IV
+22957,Al Kumm II
+23123,Al Taj V
+24436,Rigel
+25281,Saif al Jabbar
+25336,Bellatrix
+25923,Thabit
+25930,Mintaka
+26176,Heka
+26207,Meissa
+26220,Trapezium
+26221,Gwiazda Becklina
+26235,Mizan Batil II
+26237,Mizan Batil I
+26241,Hatysa
+26311,Alnilam
+26563,Mizan Batil III
+26727,Alnitak
+27366,Saiph
+27989,Betelgeuse
+100751,Peacock
+1067,Algenib
+104780,Solaris
+107315,Enif
+109068,Fum al Faras
+109427,Biham
+112029,Homam
+112051,Sadalmatar
+112158,Matar
+112440,Sadalnazi
+112447,Suudalnujum
+112748,Sadalbari
+113881,Scheat
+113963,Markab
+115250,Salm
+115623,Alkarab
+10729,Misam al Thurayya I
+13268,Miram
+13531,Kerb
+13879,Gorgonea Secunda
+14354,Gorgonea Tertia
+14576,Algol
+14668,Misam
+14817,Gorgonea Quarta
+15863,Mirfak
+17448,Atik
+18246,Atik
+18614,Menkib
+22365,Osobliwa gwiazda Bidelmana
+2071,Alrial I
+2081,Ankaa
+3245,Alrial II
+5054,Nenque
+5165,Alrial III
+5348,Wurren
+5862,Alrial IV
+6867,Alrial V
+24186,Gwiazda Kapteyna
+106824,Sāmaya
+111188,Fum al Hui
+113368,Fomalhaut
+1547,Citadelle
+3786,Kuton I
+3829,Gwiazda van Maanena
+5737,Revati
+5743,Kuton III
+6643,Bélénos
+7097,Alpherg
+8198,Torcular
+9487,Alrescha
+113889,Fumalsamakah
+114322,Ebla
+31895,Nosaxa
+35488,Bernes 135
+38170,Azmidi
+39429,Naos
+39757,Tureis
+17096,Tupi
+3479,Cocibolca
+78104,Iklil
+78265,Fang
+78401,Dschubba
+78820,Acrab
+78933,Jabhat Acrabi I
+78990,Jabhat Acrabi II
+79374,Jabbah
+79431,Sharjah
+80112,Alniyat
+80763,Antares
+81266,Paikauhale
+82396,Larawag
+82514,Xamidimura
+82545,Pipirima
+83547,Rapeto
+85696,Lesath
+85927,Shaula
+86228,Sargas
+86670,Mula
+87073,Girtab
+87261,Fuyue
+87294,Vanant
+76276,Nasak Yamani I
+77070,Unukalhai
+77233,Chow
+77450,Gudja
+77622,Nasak Yamani II
+78072,Nasak Shamiya II
+89962,Alava
+90004,Alasia
+92037,Tweedledee and Tweedledum
+92895,Kaveh
+92946,Alya
+48711,Bibhā
+96078,Uruk
+96757,Sham
+88414,Pincoya
+88635,Alnasl
+89341,Polis
+89642,Hamalwarid
+89931,Kaus Media
+90185,Kaus Australis
+90496,Kaus Borealis
+92041,Namalsadirah I
+92761,Ainalrami
+92845,Ain al Rami II
+92855,Nunki
+93506,Ascella
+93864,Namalsadirah II
+94141,Albaldah
+94643,Al Kiladah
+94645,Gumala
+95124,Belel
+95241,Arkab Prior
+95262,Sika
+95294,Arkab Posterior
+95347,Rukbat
+95477,Namalsadirah III
+95503,Namalsadirah IV
+98066,Terebellum
+98162,Terebellum II
+98353,Terebellum III
+98688,Terebellum IV
+17489,Celaeno
+17499,Electra
+17531,Taygeta
+17573,Maia
+17579,Asterope
+17588,Sterope II
+17608,Merope
+17702,Alcyone
+17847,Atlas
+17851,Pleione
+20205,Prima Hyadum
+20250,Alkalbain I
+20430,Alkalbain II
+20455,Secunda Hyadum
+20635,Alkalbain III
+20641,Alkalbain IV
+20711,Alkalbain V
+20885,Hyadum III
+20889,Ain
+20894,Chamukuy
+21109,Hoggar
+21421,Aldebaran
+25428,Elnath
+25945,Rubinowa Gwiazda
+26451,Tianguan
+82273,Atria
+8796,Mothallah
+10064,Mizan
+5529,Emiw
+116084,Poerava
+40687,Násti
+41704,Muscida
+42080,Althiba I
+42438,Althiba II
+42527,Althiba III
+44127,Talitha
+44390,Althiba IV
+44471,Alkaphrah
+44857,Althiba V
+44901,Alhaud I
+45038,Althiba VI
+45075,Alhaud II
+45493,Alhaud III
+46471,Intercrus
+46733,Alhaud IV
+46853,Alhaud V
+46977,Althiba VII
+48319,Alhaud VI
+48402,Alhaud VII
+50372,Tania Borealis
+50801,Tania Australis
+53721,Chalawan
+53910,Merak
+54035,Lalande 21185
+54061,Dubhe
+55219,Alula Borealis
+57399,Taiyangshou
+57820,Aniara
+57939,Groombridge 1830
+58001,Phecda
+59774,Megrez
+62956,Alioth
+65378,Mizar
+65477,Alcor
+66192,Liesma
+67301,Alkaid
+73136,Baekdu
+11767,Gwiazda Polarna
+72607,Kochab
+74793,Pherkad Minor
+75097,Pherkad
+77055,Akfa Farkadain
+79822,Anwa Farkadain
+82080,Circitores
+85822,Yildun
+39953,Regor
+42913,Alsephina
+44816,Suhail
+45941,Markeb
+47202,Kalausi
+48235,Natasha
+57370,Flegetonte
+57757,Zavijava
+60129,Zaniah
+61941,Porrima
+61941,Arich
+63090,Minelauva
+63608,Vindemiatrix
+65474,Spica
+66249,Heze
+69427,Kang
+69701,Syrma
+69974,Khambalia
+70755,Elgafar
+71957,Rijl al Awwa
+72339,Mönch
+95771,Anser
